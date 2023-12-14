@@ -1,0 +1,9 @@
+
+Library/Artifacts/42/421941f53203fdd84c3936b435fc0db3
+
+Library/* 
+Logs/* 
+Temp/* 
+ 
+.vsconfig 
+*.sln 
